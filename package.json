@@ -1,0 +1,19 @@
+{
+  "name": "scope-closures-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReinTristan/scope-closures-JS.git"
+  },
+  "author": "ReinTristan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReinTristan/scope-closures-JS/issues"
+  },
+  "homepage": "https://github.com/ReinTristan/scope-closures-JS#readme"
+}
